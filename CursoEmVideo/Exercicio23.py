@@ -1,0 +1,5 @@
+numero = str(input('Digite um nunmero de 0 a 9999 '))
+print('A casa das unidades é {}'.format(numero[0]))
+print('A casa das dezenas é {}'.format(numero[1]))
+print('A casa das centenas é {}'.format(numero[2]))
+print('A casa das milhares é {}'.format(numero[3]))

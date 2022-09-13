@@ -1,0 +1,7 @@
+nome = input('Digite seu nome Completo: ')
+print(nome.upper())
+print(nome.lower())
+qtde = len(nome)-nome.count(" ")
+qtde1 = nome.split()
+print(qtde)
+print(len(qtde1[0]))
