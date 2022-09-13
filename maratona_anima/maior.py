@@ -1,0 +1,6 @@
+a,b,c =input().split(" ") 
+int(a)
+int(b)
+int(c)
+maior = max(a,b,c)
+print(maior,end="")
